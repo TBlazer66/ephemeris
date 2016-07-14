@@ -1,0 +1,165 @@
+$ perl conj18.pl
+Make query number 1? [Y] :Y
+guess is 2457206.13659
+vstr is 34790
+jstr is 34686
+Make query number 2? [Y] :Y
+guess is 2457205.38659
+vstr is 34682
+jstr is 34653
+Make query number 3? [Y] :Y
+guess is 2457205.01159
+vstr is 34628
+jstr is 34636
+Make query number 4? [Y] :Y
+guess is 2457205.19909
+vstr is 34655
+jstr is 34644
+Make query number 5? [Y] :Y
+guess is 2457205.10534
+vstr is 34641
+jstr is 34640
+Make query number 6? [Y] :Y
+guess is 2457205.058465
+vstr is 34634
+jstr is 34638
+Make query number 7? [Y] :Y
+guess is 2457205.0819025
+vstr is 34638
+jstr is 34639
+Make query number 8? [Y] :Y
+guess is 2457205.09362125
+vstr is 34640
+jstr is 34640
+equal, while condition should fail 2457205.09362125
+equal_ra is 9h 37m 20s
+right is 34790 34682 34628 34655 34641 34634 34638 34640
+left is 34686 34653 34636 34644 34640 34638 34639 34640
+julian is 2457206.13659 2457205.38659 2457205.01159 2457205.19909 2457205.10534 2457205.058465 2457205.0819025 2457205.09362125
+right is 34790 34682 34628 34655 34641 34634 34638 34640
+eq is 34640
+i is 0
+i is 1
+i is 3
+i is 4
+right is 34790 34682 34628 34655 34641 34634 34638 34640
+ind is 4
+v is 34641 and jul is 2457205.10534
+upper is 2457205.10534
+lower is 2457205.09362125
+Make query number 1? [Y] :Y
+guess is 2457205.09948062
+vstr is 34640
+jstr is 34640
+Make query number 2? [Y] :Y
+guess is 2457205.10241031
+vstr is 34641
+jstr is 34640
+Make query number 3? [Y] :Y
+guess is 2457205.10094547
+vstr is 34641
+jstr is 34640
+Make query number 4? [Y] :Y
+guess is 2457205.10021305
+vstr is 34641
+jstr is 34640
+Make query number 5? [Y] :Y
+guess is 2457205.09984684
+vstr is 34641
+jstr is 34640
+Make query number 6? [Y] :Y
+guess is 2457205.09966373
+vstr is 34641
+jstr is 34640
+Make query number 7? [Y] :Y
+guess is 2457205.09957218
+vstr is 34641
+jstr is 34640
+Make query number 8? [Y] :Y
+guess is 2457205.0995264
+vstr is 34640
+jstr is 34640
+Make query number 9? [Y] :Y
+guess is 2457205.09954929
+vstr is 34641
+jstr is 34640
+Make query number 10? [Y] :Y
+guess is 2457205.09953785
+vstr is 34640
+jstr is 34640
+Make query number 11? [Y] :Y
+guess is 2457205.09954357
+vstr is 34640
+jstr is 34640
+Make query number 12? [Y] :Y
+guess is 2457205.09954643
+vstr is 34640
+jstr is 34640
+after upper contraction, upper is 2457205.09954929
+after upper contraction, lower is 2457205.09954643
+right is 34686 34653 34636 34644 34640 34638 34639 34640
+eq is 34640
+i is 2
+i is 5
+i is 6
+right is 34686 34653 34636 34644 34640 34638 34639 34640
+ind is 6
+v is 34639 and jul is 2457205.0819025
+left is 34686 34653 34636 34644 34640 34638 34639 34640
+julian is 2457206.13659 2457205.38659 2457205.01159 2457205.19909 2457205.10534 2457205.058465 2457205.0819025 2457205.09362125
+upper is 2457205.0819025
+lower is 2457205.09362125
+Make query number 1? [Y] :Y
+guess is 2457205.08776187
+vstr is 34639
+jstr is 34640
+Make query number 2? [Y] :Y
+guess is 2457205.09069156
+vstr is 34639
+jstr is 34640
+Make query number 3? [Y] :Y
+guess is 2457205.09215641
+vstr is 34639
+jstr is 34640
+Make query number 4? [Y] :Y
+guess is 2457205.09288883
+vstr is 34640
+jstr is 34640
+Make query number 5? [Y] :Y
+guess is 2457205.09252262
+vstr is 34639
+jstr is 34640
+Make query number 6? [Y] :Y
+guess is 2457205.09270572
+vstr is 34639
+jstr is 34640
+Make query number 7? [Y] :Y
+guess is 2457205.09279728
+vstr is 34640
+jstr is 34640
+Make query number 8? [Y] :Y
+guess is 2457205.0927515
+vstr is 34640
+jstr is 34640
+Make query number 9? [Y] :Y
+guess is 2457205.09272861
+vstr is 34640
+jstr is 34640
+Make query number 10? [Y] :Y
+guess is 2457205.09271717
+vstr is 34639
+jstr is 34640
+Make query number 11? [Y] :Y
+guess is 2457205.09272289
+vstr is 34639
+jstr is 34640
+Make query number 12? [Y] :Y
+guess is 2457205.09272575
+vstr is 34639
+jstr is 34640
+after begin contraction, upper is 2457205.09272575
+after begin contraction, lower is 2457205.09272861
+middle is 2457205.09613609
+duration is 0.0068206787109375
+$ 
+
